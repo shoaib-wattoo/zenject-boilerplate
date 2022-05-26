@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b17b6a2f429b74d92b7ef09acc72344f, type: 3}
+  m_Name: SparvisUiStyle
+  m_EditorClassIdentifier: 
+  screen1: {fileID: 3060665505312568364, guid: 3610800a77ee74146a2608a94954a7a3, type: 3}
+  screen2: {fileID: -4893707171700156837, guid: a9246ec4b0d3d4819ba9ba4f06be84d5, type: 3}
